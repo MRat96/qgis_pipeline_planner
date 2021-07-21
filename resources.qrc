@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/pipeline_planner" >
+        <file>pipeline_icon.png</file>
+    </qresource>
+</RCC>
